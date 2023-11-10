@@ -1,2 +1,2 @@
 # Exercisesnetworkanalysislecture2023
-Exercises lecture network science
+Collection of Phyton exercises for lecture network science (Geography UNIBern)
