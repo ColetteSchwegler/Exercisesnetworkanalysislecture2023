@@ -1,0 +1,2 @@
+# Exercisesnetworkanalysislecture2023
+Exercises lecture network science
